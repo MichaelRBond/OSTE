@@ -1,0 +1,204 @@
+            
+
+                                         Over Simplistic Text
+                 ßßßßßß\  ßßßß\   ßßßßß\ ßßßßß\ ßßßßß\  ßßßß\
+                 ß\       ß\  ß\    ß\     ß\   ß\  ß\  ß\  ß\
+                 ßßßß\    ß\  ß\    ß\     ß\   ß\  ß\  ßßßß\
+                 ß\       ß\  ß\    ß\     ß\   ß\  ß\  ß\  ß\
+                 ßßßßßß\  ßßßß\   ßßßßß\   ß\   ßßßßß\  ß\  ß\
+
+                                oSTe v. 1.0
+
+           copyright 1996 Michael Bond(a.k.a. Alternat Personality)
+
+*tip* Put the directory C:\OSTE in your path so that you can launch OSTE
+from anywhere
+
+*****You must have oste.dsk in the directory c:\oste else oste will give you
+and error, run install to move all the files for you. If you wish to have
+your files in another location, e-mail me with the directory you would like
+and I will re-compile oste for you with the specified path*****
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Table of contents:
+
+1: Legal Stuff
+2: everything this software has to offer
+3: General Help
+4: Complete Guide To Oste v1.0
+5: Other Must Know Information
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1: Legal Stuff
+
+By using this program you agree not to blame me for anything that happens to
+you, your computer, loss of profits, loss of job, loss of hair, your mental 
+health, dog, cat, or anything else that you own, or are responcable for.
+
+This program is Has been found to be harmless on my computer, I can not 
+predict everything that may happen on ever type of system config out there. 
+This program has been tested under DOS, OS/2, and Windows `95. I do not know 
+how this program will behave under Windows 3.x or Windows NT. If you use 
+Windows 3.x or Windows NT let me know how it runs.
+
+You may distribute this program freely, as long as you do NOT charge anything
+for it and all the files are included, unchanged. You may *NOT* hex edit, or
+change any code and/or graphics in this program with out my permission.
+
+You may not modify any of the files that are included in this zip in anyway.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2: Every thing this software has to offer! * : new since last version
+
+	1: Full Mouse Support
+	2: Multiple Edit Windows
+	3: Cut and Paste
+	4: Screen Resolution Changes                
+	5: Undo Your Last Edits
+	6: Ascii Chart
+	7: Resizable Windows
+	8: Hot Keys For The Most Used Commands
+	9: Dos Shell
+       10: Makes Backup Files(filename.bak)
+       11: Change The Your Desktop Colors.
+       12: Cascade and Tile the Windows
+       13: Change Directories(Affects Which Directory You Are In, In DOS)
+       14: Load Files From the Command Line
+       15: Autosave Your Desktop Colors
+      *16: OPEN BUG HAS BEEN FIXED!*		
+      *17: Search and Replace Functions*
+      		
+Whats coming in the future?
+	- On-line Help
+	- Status bar that displays different commands depending on what
+	  you are doing
+	- Edit text in the "clipboard" before you paste it.
+	- A totally reprogrammed acsii table
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+3: General Help
+
+*Basic Use*
+The commands in this text editor are very basic and pretty much standard, to
+all Dos text editors. <Alt> plus the hightlighted key will give you the menu 
+bar, or you can just pick what you want with the mouse.
+
+To use the status bar(bar on the buttom of the screen) push the highlighted
+letter(s) or click on the option with your mouse.
+
+*The Basic Commands to get you Started*
+
+Start a new File: Select New from the File Menu, OR push F4
+Saveing Files: Select Save from the File Menu, OR push F2
+Opening Files: Select Open from the File Menu, OR push F3
+Closing a Window: Select Close from the Window Menu, OR push Alt+F3
+Jump to DOS: Select DOS SHELL from the file menu, OR push Alt+J
+To undo your last edit: Select Undo form the Edit Menu
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+4: Complete Guide to Using OSTE v. 1.0
+
+*Changing Colors*
+You can change the defualt colors from the options menu(Color Selection),
+Oste automtical saves your color selection to a file called, OSTE.DSK. 
+The program will automatically restore your colors when you start OSTE.
+
+*Cut and Paste*
+To use cut and paste either select the text that you want with the mouse or
+push DOWN AND HOLD the shift key and use the arrow keys to select the text.
+Select the edit menu and either copy or cut. Move the cursor to where you 
+want the text located and select paste from the Edit Menu. You CAN cut and
+paste between different windows/documents that are open.
+
+*Clear*
+Deletes the highlighted text
+
+*Searching and Replacing*
+Searching for text allows you to find a word, or part of a word with in your 
+document. To search for word select search from the search menu, then type
+the string of letters in the space provided that you wish to find. If you 
+want OSTE to find it with capitals(or without caps), select case sensitive.
+If you want to find only whole words, select the whole words option. If this
+options is NOT selected then OSTE will find all occurances of the wrds you 
+want. 
+	Example: you want to find the word "can", and you DO NOT select the
+	whole words only option, the letters CAN will be highlighted in the
+	word CAN't, or CANada.
+To replace a word with another use the replace feature. Put the word that you
+want replaced in the first field, and the word that you want it replaced with 
+in the second field. You have the same options as with serch(case sensitive,
+and whole words only), plus 2 additional options. Prompt to replace, asks you
+if you want to replace the occurance that it has just found, replace all 
+replaces all the words that it finds(usually used when you turn OFF "prompt
+to replace")
+
+*Video Modes*
+To toggle between regular and ega video modes select options and Toggle 
+video. Use the same command to toggle back.
+
+*Ascii Chart*
+To use the ascii chart select the options menu and then select ascii chart.
+use the mouse to select the character that you are intrested in. The ascii
+number is listed in the bottom of the window. Push and hold down the alt
+key while you type the decimal number in using the numeric keypad.
+
+*Tiling or Cascading Windows*
+Tiling your windows will allow you to see all the windows that are open at
+once, this is usefull when you are compairing files, and need to see a line
+in both at once. To tile the windows select tile  from the Window Menu.
+Cascading Windows overlaps the windows, allowing you to view only the 
+window that you are currently working in. To cascade your windows select
+cascade from Window Menu.
+
+*Zoom*
+Zooms the current window to full screen, the same affect is gained by either
+double clicking the top of the windows, or clicking on the arrow in the upper
+right hand corner of the window.
+
+*Selecting ofter windows*
+To select the next window push F6, to select the previous window push Alt+F6,
+or click on the windows using the mouse.
+
+*Resizing and moving windows*
+The easiest way to resize nd move windows is with the mouse. Select the 
+bottom right corner with the mouse, hold down the left mouse button and drag 
+the window to what ever size that you want. To move a window, left click
+the top of the window, hold down the button and move the window around.
+Also, you can select size/move from the windows menu. This will highlight the 
+current window, use the arrow keys to move it around, press and HOLD down
+the shift key then use the arrow keys to resize the window.
+
+*Deleting lines and words*
+To delete an entire line puch ctrl+Y, and to delete a word push ctrl+t.
+Also you can highlight any text and push the del key to delete it.
+
+*Using OSTE as an external editor in norton commander*
+Norton commander is by far one of the best dos programs to manilpulate files,
+and edit text files. But the internal editor is very limited. To make oste
+your standard norton commander editor push F9 to get the menu, select options
+and then editor. Select external editor and for your editor put 
+			c:\oste\oste.exe !.!
+The !.! will load the highlighted file automatically. To activate the editer
+hit F4.
+		Please note, that i did not included norton commander with
+		OSTE.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+5: Other Must Know Information
+
+This program in copyright 1996 Michael Bond(a.k.a. Alternate Personality)
+The Ascii Table was taken from Borland Pascals Demo.
+
+If you have any suggestions or want to report a bug you can contact me on
+the following boards, send e-mail to alternate personality.
+ 
+ Heaven and earth  (1-908-979-0753)
+ Infinate Twilight (1-908-637-8243)
+ Digital Rift      (1-908-852-1443)
+ Ring Of Fire      (1-908-713-1313)
+
+ Or Through Internet E-Mail: altp@world2u.com
